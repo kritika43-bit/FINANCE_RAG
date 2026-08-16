@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+pypdf
+python-dotenv
+streamlit
+openai
+chromadb
+pdfplumber
+fastapi
+requests
